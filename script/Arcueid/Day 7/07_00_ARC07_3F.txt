@@ -583,7 +583,7 @@ She has... nothing better to do...?
 // Reading 障害 as 'things getting in the way of my original goal of finding Roa'.
 Despite the fact that a lot of people hate me and are out to get me,
  you still helped me take down Vlov, right?
- With him gone,, there's nothing left to get in my way."
+ With him gone, there's nothing left to get in my way."
 }
 [sha:5857440faf0b40805998364763f1172712978da2]{
 -- Page 376, Offset 17510.
